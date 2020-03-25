@@ -1,5 +1,3 @@
-ul {background color : blue} 
-ul {color :white }
-p {color :red}
-li {color :brown}
-body {background: yellow}
+h1 {Font-family:"times new roman";font size:20pt;font-weight:bold;color:blue}
+p {Font-family:"monotype corsiva";font size:40pt;font-weight:bold;color:black;text-align: justify}
+body{Font-family:"times new roman";font size:40pt;background-color:#OOFFFF}
