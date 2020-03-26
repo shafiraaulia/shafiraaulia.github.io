@@ -1,5 +1,0 @@
-body {background-image: url(moon.png); }
-h1 {border-style: dashed; color: white; font-family: "Lucida console"; font-size: 15px; text-shadow: 2px 2px black }
-h2 {text-align: center; color: white; font-family: "Times new roman" font size: 15px; text-shadow: 2px 2px black }
-p {text-align: justify; color: white:font-family:"Arial", serifs; font size: 15px }
-img {border-radius: 50%; }
